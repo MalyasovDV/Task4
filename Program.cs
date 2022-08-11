@@ -17,10 +17,10 @@ int Compare(int a, int b, int c)
 }
 
 int a = 2,b = 3, c = 7;
-Console.WriteLine(a + ', ' + b + ', '+ c +':' + " max = " + Compare(a, b, c));
+Console.WriteLine(a + ", " + b + ", "+ c +':' + " max = " + Compare(a, b, c));
 
 a = 44; b = 5; c = 78;
-Console.WriteLine(a + ', ' + b + ', '+ c +':' + " max = " + Compare(a, b, c));
+Console.WriteLine(a + ", " + b + ", "+ c +':' + " max = " + Compare(a, b, c));
 
 a = 22; b = 3; c = 9;
-Console.WriteLine(a + ', ' + b + ', '+ c +':' + " max = " + Compare(a, b, c));
+Console.WriteLine(a + ", " + b + ", "+ c +':' + " max = " + Compare(a, b, c));
